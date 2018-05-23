@@ -1,0 +1,6 @@
+/target/
+/.settings/
+/tomcat.8080/
+*.jar
+*.class
+
